@@ -515,7 +515,7 @@ textarea {
 .footer-form input[type="email"],
 .footer-form input[type="text"]:focus,
 .footer-form textarea {
-  background-color: #fff;
+  background-color: #535348;
   color: #000;
 }
 
