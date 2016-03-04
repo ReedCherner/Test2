@@ -508,16 +508,6 @@ textarea {
 
 .widget.widget_ninja_forms_widget {
   margin: 0;
-}
-
-.footer-form,
-.footer-form input[type="text"],
-.footer-form input[type="email"],
-.footer-form input[type="text"]:focus,
-.footer-form textarea {
-  background-color: #535348;
-  color: #000;
-}
 
 .footer-form textarea {
   color: rgba(255, 255, 255, 0.5);
